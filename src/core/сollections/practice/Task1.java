@@ -1,4 +1,4 @@
-package core.Collections.practice;
+package core.сollections.practice;
 
 import java.util.HashMap;
 import java.util.Scanner;

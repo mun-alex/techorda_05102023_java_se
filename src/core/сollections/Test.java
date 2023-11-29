@@ -1,4 +1,4 @@
-package core.Collections;
+package core.сollections;
 
 import core.exceptions.Student;
 
